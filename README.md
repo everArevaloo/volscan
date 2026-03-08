@@ -9,6 +9,8 @@
 **VOLSCAN** is a dark-themed, Bloomberg-style options dashboard that displays real-time gamma structure, skew, expected moves, and key price levels for any ticker. It proxies the Trading Volatility API and Anthropic's Claude API through a local Express server so your keys never touch the browser.
 
 ---
+<img width="1207" height="822" alt="Screenshot 2026-03-07 at 4 12 45 PM" src="https://github.com/user-attachments/assets/3ea9ccf9-525c-4ac8-80cb-9bd8a6bf3edf" />
+
 
 ## Detailed Summary
 
@@ -87,6 +89,10 @@ Single-file React component, no external UI library. Styled entirely with Tailwi
 - Demo ticker chips: AAPL, META, AMZN, XOM, GM, MCD, KO
 - ⚡ AI BRIEF shortcut button (visible when data is loaded)
 - API key subrow: live status indicators for TV and Anthropic keys, password inputs to set/update either key at runtime without restarting the proxy
+
+<img width="1210" height="771" alt="Screenshot 2026-03-07 at 4 12 27 PM" src="https://github.com/user-attachments/assets/936a59e0-c4d9-440f-90c4-a61f38a7de26" />
+<img width="1199" height="820" alt="Screenshot 2026-03-07 at 4 12 56 PM" src="https://github.com/user-attachments/assets/a6a43b28-2650-437b-b604-4b270d6b588d" />
+<img width="1192" height="835" alt="Screenshot 2026-03-07 at 4 13 56 PM" src="https://github.com/user-attachments/assets/7e2b91db-b5f6-43d8-9db0-997a12f8e156" />
 
 ---
 
